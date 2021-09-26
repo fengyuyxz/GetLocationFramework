@@ -1,0 +1,2 @@
+# GetLocationFramework
+定位功能，后续作为个人私有组件使用，根据pod依赖百度高德自动调用对应sdk获取定位信息
